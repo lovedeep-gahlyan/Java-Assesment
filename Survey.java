@@ -57,7 +57,7 @@ public class Survey {
 
            if (entry.getValue() == maxValueInMap) {
 
-               System.out.println(entry.getKey());
+               System.out.println("Maximum used product was : " + entry.getKey());
            }
        }
 	}
